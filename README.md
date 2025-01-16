@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 - **Tools:** Flutter , FlutterFlow , Figma , Wordpress , Github .
 - **Other:** DSA , MySQL , HTMl , CSS .
 
-##🧑‍🎓 Projects
+##  🧑‍🎓Projects
 
 Here are a few projects I've been working on:
 
@@ -35,7 +35,7 @@ OpenStreetMap API : Used to reverse geocoding to fetch address details based on 
 
 ![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetan-co&show_icons=true&theme=radical)
 
-##🌐 Connect with Me
+## 🌐Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/chetan-yadav-)
 - [Personal Website](https://portfolio-git-main-chetan-cos-projects.vercel.app/)
