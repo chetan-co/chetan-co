@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm thrilled to have you here.
 
-## About Me
+## 👩‍💻About Me
 
 - 🌱 I’m currently learning **Server Side languages**
 - 👯 I’m looking to collaborate on **Web & App Development**
@@ -11,14 +11,14 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 - 📫 How to reach me: **chetanrao2310@gmail.com**
 - ⚡ Fun fact: **Every Coder Strenght is Being a Alone**
 
-## Skills
+## 🔫Skills
 
 - **Languages:** C , C++, Javascript , python , Php .
 - **Frameworks:** Bootstrap ,TailwindCss , Reactjs , Expressjs . 
 - **Tools:** Flutter , FlutterFlow , Figma , Wordpress , Github .
 - **Other:** DSA , MySQL , HTMl , CSS .
 
-## Projects
+##🧑‍🎓 Projects
 
 Here are a few projects I've been working on:
 
@@ -31,11 +31,11 @@ Here are a few projects I've been working on:
 **Technologies:**  React js : Framework to create interactive UI. Leaflet : Popular Library for rendering dynamic maps.
 OpenStreetMap API : Used to reverse geocoding to fetch address details based on latitude and longitude.
 
-## GitHub Stats
+## 📈GitHub Stats
 
 ![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetan-co&show_icons=true&theme=radical)
 
-## Connect with Me
+##🌐 Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/chetan-yadav-)
 - [Personal Website](https://portfolio-git-main-chetan-cos-projects.vercel.app/)
