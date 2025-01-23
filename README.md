@@ -26,7 +26,7 @@ Here are a few projects I've been working on:
 **Description:** To describe my created project and show my all technical skills . 
 **Technologies:** HTMl , CSS , Javascript .
 
-### [React Live Locator](live-locator.vercel.app)
+### [React Live Locator](https://live-locator.vercel.app)
 **Description:**   A real- time location- based web app that displays your location and full address. 📍✨.  
 **Technologies:**  React js : Framework to create interactive UI. Leaflet : Popular Library for rendering dynamic maps.
 OpenStreetMap API : Used to reverse geocoding to fetch address details based on latitude and longitude.
