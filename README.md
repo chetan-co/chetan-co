@@ -13,10 +13,31 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 ## 🔫Skills
 
-- **Languages:** C , C++, Javascript , python , Php .
-- **Frameworks:** Bootstrap ,TailwindCss , Reactjs , Expressjs . 
-- **Tools:** Flutter , FlutterFlow , Figma , Wordpress , Github .
-- **Other:** DSA , MySQL , HTMl , CSS .
+### Programming Languages
+- ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+
+### Frameworks and Libraries
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+- ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+
+### Tools
+- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+- ![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-02569B?logo=flutterflow&logoColor=white)
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+- ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+### Other
+- ![DSA](https://img.shields.io/badge/-DSA-000000) Data Structures and Algorithms
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 
 ##  🧑‍🎓Projects
 
