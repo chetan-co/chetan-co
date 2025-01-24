@@ -43,9 +43,9 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 Here are a few projects I've been working on:
 
-### [Portfolio](https://portfolio-git-main-chetan-cos-projects.vercel.app/)
-**Description:** To describe my created project and show my all technical skills . 
-**Technologies:** HTMl , CSS , Javascript .
+### [Text Specifier](https://text-specifier.vercel.app/)
+**Description:** Text Specifier is a React-based web application that allows users to format text quickly and efficiently . 
+**Technologies:** HTMl , CSS , Javascript, Bootstrap , Reactjs .
 
 ### [React Live Locator](https://live-locator.vercel.app)
 **Description:**   A real- time location- based web app that displays your location and full address. 📍✨.  
