@@ -58,7 +58,7 @@ OpenStreetMap API : Used to reverse geocoding to fetch address details based on 
 
 ## 🌐Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/chetan-yadav-)
+- [LinkedIn](www.linkedin.com/in/chetan-yadav-00aa53253)
 - [Personal Website](https://portfolio-git-main-chetan-cos-projects.vercel.app/)
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi. 😊
