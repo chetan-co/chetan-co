@@ -1,7 +1,7 @@
 
 ## Introduction
 
-I have a degree in Computer Science and over five years of experience working in tech companies where I have honed my skills in building scalable software solutions. My passion for technology and problem-solving drives me to stay updated with the latest industry trends and continuously improve my technical abilities.
+I have a degree in Computer Science and over few years of experience working in tech companies where I have honed my skills in building scalable software solutions. My passion for technology and problem-solving drives me to stay updated with the latest industry trends and continuously improve my technical abilities.
 
 ## Technical Skills
 
