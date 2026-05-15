@@ -31,6 +31,6 @@ Thank you for considering my application. I look forward to hearing from you.
 Best regards,
 
 Chetan Co
-[LinkedIn Profile](http://linkedin.com/in/chetan-co)
+[LinkedIn Profile](www.linkedin.com/in/chetan-yadav-00aa53253)
 Email: chetanrao2310@gmail.com
 Phone: 8447284045
