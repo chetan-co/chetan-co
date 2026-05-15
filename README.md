@@ -1,8 +1,3 @@
-# Cover Letter
-
-Dear Hiring Manager,
-
-I am writing to express my interest in the software engineering position at Google, as advertised on your careers page. With a strong foundation in computer science and extensive experience in software development, I am excited about the opportunity to contribute to innovative projects at Google.
 
 ## Professional Introduction
 
