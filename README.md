@@ -5,11 +5,12 @@ I have a degree in Computer Science and over few years of experience working in 
 
 ## Technical Skills
 
-- **Programming Languages:** Proficient in Python, Java, and JavaScript.
+- **Programming Languages:** Proficient in Python, Java,JavaScript, Dart & Go.
 - **Frameworks:** Experienced with Flask, Spring Boot, and React.
 - **Databases:** Knowledgeable in SQL and NoSQL database systems including PostgreSQL and MongoDB.
 - **Cloud Computing:** Familiar with AWS and Google Cloud Platform (GCP).
-- **Version Control:** Proficient with Git and GitHub for source control management.
+- **Version Control:** Proficient with Git and GitHub for source control management .
+- **Tool:** Flutter , Flutterflow , Wordpress , Canvas , Andriod Studio.
 
 ## Projects
 
