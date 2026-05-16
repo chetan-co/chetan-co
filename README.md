@@ -5,7 +5,7 @@ I have a degree in Computer Science and over few years of experience working in 
 
 ## Technical Skills
 
-- **Programming Languages:** Proficient in Python, Java,JavaScript, Dart & Go.
+- **Programming Languages:** Proficient in Python, C , C++ ,JavaScript, Dart & Go.
 - **Frameworks:** Experienced with Flask, Spring Boot, and React.
 - **Databases:** Knowledgeable in SQL and NoSQL database systems including PostgreSQL and MongoDB.
 - **Cloud Computing:** Familiar with AWS and Google Cloud Platform (GCP).
