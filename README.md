@@ -18,7 +18,7 @@ I have successfully led and contributed to several projects, including:
 - **E-commerce Website:**  Developed a full-stack application allowing users to browse products, manage their cart, and process payments, using React for frontend and Node.js for backend.
 - **Data Analysis Tool:**  Created a Python-based application that analyzes large datasets, providing meaningful insights through data visualization techniques.
 - **Society Management App:**  Created A Society Management App is a digital platform that helps housing societies manage residents, maintenance, security, complaints, and payments efficiently.
-- 
+  
 
 ## Collaboration Opportunities
 
