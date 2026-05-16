@@ -18,15 +18,16 @@ I have successfully led and contributed to several projects, including:
 - **E-commerce Website:**  Developed a full-stack application allowing users to browse products, manage their cart, and process payments, using React for frontend and Node.js for backend.
 - **Data Analysis Tool:**  Created a Python-based application that analyzes large datasets, providing meaningful insights through data visualization techniques.
 - **Society Management App:**  Created A Society Management App is a digital platform that helps housing societies manage residents, maintenance, security, complaints, and payments efficiently.
+- 
 
 ## Collaboration Opportunities
 
 I thrive in teamwork environments and am eager to collaborate with diverse teams to drive projects forward. My previous roles have emphasized the importance of effective communication and collaborative problem-solving.
 
+
 ## Contact Information
 
 I would love the opportunity to discuss how my background, skills, and enthusiasms for technology can align with the innovative culture at IT Companies. 
-
 Thank you for considering my application. I look forward to hearing from you.
 
 Best regards,
