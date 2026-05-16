@@ -27,8 +27,7 @@ I thrive in teamwork environments and am eager to collaborate with diverse teams
 
 ## Contact Information
 
-I would love the opportunity to discuss how my background, skills, and enthusiasms for technology can align with the innovative culture at IT Companies. 
-Thank you for considering my application. I look forward to hearing from you.
+I would love the opportunity to discuss how my background, skills, and enthusiasms for technology can align with the innovative culture at IT Companies.  I look forward to hearing from you.
 
 Best regards,
 
